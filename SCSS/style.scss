@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #548687;
+}
+
+.box{
+    height: 25vmin;
+    width: 25vmin;
+    box-shadow: 0 0 1rem rgba($color: #000000, $alpha: 0.4);
+    font-size: 8vmin;
+    color: #b0413e;
+    background-color: #ffffc7;
+}
+#msg{
+    color: #ffffc7;
+    font-size: 7vmin;
+}
+.hide{
+    display: none;
+}
