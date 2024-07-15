@@ -8,7 +8,7 @@ I am a passionate and creative web designer who is knowledgeable of HTML, CSS, B
 
 😄 Pronouns: Golu
 
-![heart png](https://github.com/user-attachments/assets/ed635813-e9b8-4afa-91ca-a8e5f121b92b) My first JavaScript Mini Project ![heart png](https://github.com/user-attachments/assets/ed635813-e9b8-4afa-91ca-a8e5f121b92b)
+ My first JavaScript Mini Project
 
 
 Click on the link to open Tic tac toe game:- https://goluchauhan1.github.io/JavaScript-Mini-Project/
